@@ -1,0 +1,42 @@
+2025-11-13 14:31:14,211 [INFO] ==== DB Load Run Started ====
+2025-11-13 14:31:14,257 [INFO] Loaded 500 rows into table 'sales_transactional'
+2025-11-13 14:31:14,279 [INFO] Loaded 340 rows into table 'sales_aggregated'
+2025-11-13 14:31:14,291 [INFO] Indexes created successfully
+2025-11-13 14:31:14,291 [INFO] Database load completed in 0.08s \u2192 C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\db\retail_sales.db
+2025-11-13 14:31:14,292 [INFO] ==== DB Load Run Completed ====
+2025-11-13 16:25:40,380 [INFO] ==== DB Load Run Started ====
+2025-11-13 16:25:40,441 [INFO] Loaded 500 rows into table 'sales_transactional'
+2025-11-13 16:25:40,499 [INFO] Loaded 335 rows into table 'sales_aggregated'
+2025-11-13 16:25:40,526 [INFO] Indexes created successfully
+2025-11-13 16:25:40,526 [INFO] Database load completed in 0.15s \u2192 C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\db\retail_sales.db
+2025-11-13 16:25:40,527 [INFO] ==== DB Load Run Completed ====
+2025-11-13 16:40:44,639 [INFO] ==== DB Load Run Started ====
+2025-11-13 16:40:44,713 [INFO] Loaded 500 rows into table 'sales_transactional'
+2025-11-13 16:40:44,775 [INFO] Loaded 328 rows into table 'sales_aggregated'
+2025-11-13 16:40:44,803 [INFO] Indexes created successfully
+2025-11-13 16:40:44,804 [INFO] Database load completed in 0.16s \u2192 C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\db\retail_sales.db
+2025-11-13 16:40:44,804 [INFO] ==== DB Load Run Completed ====
+2025-11-13 19:29:10,631 [INFO] ==== DB Load Run Started ====
+2025-11-13 19:29:10,706 [INFO] Loaded 500 rows into table 'sales_transactional'
+2025-11-13 19:29:10,762 [INFO] Loaded 313 rows into table 'sales_aggregated'
+2025-11-13 19:29:10,786 [INFO] Indexes created successfully
+2025-11-13 19:29:10,786 [INFO] Database load completed in 0.16s \u2192 C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\db\retail_sales.db
+2025-11-13 19:29:10,787 [INFO] ==== DB Load Run Completed ====
+2025-11-13 20:03:26,683 [INFO] ==== DB Load Run Started ====
+2025-11-13 20:03:26,769 [INFO] Loaded 500 rows into table 'sales_transactional'
+2025-11-13 20:03:26,832 [INFO] Loaded 337 rows into table 'sales_aggregated'
+2025-11-13 20:03:26,860 [INFO] Indexes created successfully
+2025-11-13 20:03:26,860 [INFO] Database load completed in 0.18s \u2192 C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\db\retail_sales.db
+2025-11-13 20:03:26,863 [INFO] ==== DB Load Run Completed ====
+2025-11-14 00:27:13,665 [INFO] ==== DB Load Run Started ====
+2025-11-14 00:27:13,776 [INFO] Loaded 500 rows into table 'sales_transactional'
+2025-11-14 00:27:13,837 [INFO] Loaded 325 rows into table 'sales_aggregated'
+2025-11-14 00:27:13,866 [INFO] Indexes created successfully
+2025-11-14 00:27:13,867 [INFO] Database load completed in 0.20s \u2192 C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\db\retail_sales.db
+2025-11-14 00:27:13,869 [INFO] ==== DB Load Run Completed ====
+2025-11-14 13:12:43,200 [INFO] ==== DB Load Run Started ====
+2025-11-14 13:12:43,274 [INFO] Loaded 500 rows into table 'sales_transactional'
+2025-11-14 13:12:43,330 [INFO] Loaded 323 rows into table 'sales_aggregated'
+2025-11-14 13:12:43,348 [INFO] Indexes created successfully
+2025-11-14 13:12:43,348 [INFO] Database load completed in 0.15s \u2192 C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\db\retail_sales.db
+2025-11-14 13:12:43,348 [INFO] ==== DB Load Run Completed ====

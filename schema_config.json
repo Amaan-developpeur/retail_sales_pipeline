@@ -1,0 +1,13 @@
+{
+  "sales": {
+    "columns": {
+      "date": "datetime64[ns]",
+      "region": "string",
+      "product_id": "string",
+      "revenue": "float64",
+      "cost": "float64",
+      "quantity": "int64"
+    },
+    "required": ["date", "region", "revenue"]
+  }
+}

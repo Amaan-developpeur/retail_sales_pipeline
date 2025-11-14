@@ -1,0 +1,42 @@
+2025-11-13 14:09:35,673 [INFO] ==== Transformation Run Started ====
+2025-11-13 14:09:35,673 [INFO] Loaded latest ingested file: sales_20251113_134442.csv
+2025-11-13 14:09:35,721 [INFO] Transactional dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_transactional.csv (500 rows)
+2025-11-13 14:09:35,740 [INFO] Aggregated dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_aggregated.csv (340 rows)
+2025-11-13 14:09:35,740 [INFO] Transformation completed in 0.07s
+2025-11-13 14:09:35,740 [INFO] ==== Transformation Run Completed ====
+2025-11-13 16:25:39,320 [INFO] ==== Transformation Run Started ====
+2025-11-13 16:25:39,321 [INFO] Loaded latest ingested file: sales_20251113_162537.csv
+2025-11-13 16:25:39,395 [INFO] Transactional dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_transactional.csv (500 rows)
+2025-11-13 16:25:39,405 [INFO] Aggregated dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_aggregated.csv (335 rows)
+2025-11-13 16:25:39,405 [INFO] Transformation completed in 0.08s
+2025-11-13 16:25:39,405 [INFO] ==== Transformation Run Completed ====
+2025-11-13 16:40:43,548 [INFO] ==== Transformation Run Started ====
+2025-11-13 16:40:43,549 [INFO] Loaded latest ingested file: sales_20251113_164041.csv
+2025-11-13 16:40:43,605 [INFO] Transactional dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_transactional.csv (500 rows)
+2025-11-13 16:40:43,613 [INFO] Aggregated dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_aggregated.csv (328 rows)
+2025-11-13 16:40:43,613 [INFO] Transformation completed in 0.07s
+2025-11-13 16:40:43,614 [INFO] ==== Transformation Run Completed ====
+2025-11-13 19:29:09,575 [INFO] ==== Transformation Run Started ====
+2025-11-13 19:29:09,575 [INFO] Loaded latest ingested file: sales_20251113_192907.csv
+2025-11-13 19:29:09,631 [INFO] Transactional dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_transactional.csv (500 rows)
+2025-11-13 19:29:09,640 [INFO] Aggregated dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_aggregated.csv (313 rows)
+2025-11-13 19:29:09,640 [INFO] Transformation completed in 0.06s
+2025-11-13 19:29:09,640 [INFO] ==== Transformation Run Completed ====
+2025-11-13 20:03:25,477 [INFO] ==== Transformation Run Started ====
+2025-11-13 20:03:25,478 [INFO] Loaded latest ingested file: sales_20251113_200323.csv
+2025-11-13 20:03:25,550 [INFO] Transactional dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_transactional.csv (500 rows)
+2025-11-13 20:03:25,591 [INFO] Aggregated dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_aggregated.csv (337 rows)
+2025-11-13 20:03:25,591 [INFO] Transformation completed in 0.11s
+2025-11-13 20:03:25,591 [INFO] ==== Transformation Run Completed ====
+2025-11-14 00:27:12,415 [INFO] ==== Transformation Run Started ====
+2025-11-14 00:27:12,416 [INFO] Loaded latest ingested file: sales_20251114_002710.csv
+2025-11-14 00:27:12,496 [INFO] Transactional dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_transactional.csv (500 rows)
+2025-11-14 00:27:12,523 [INFO] Aggregated dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_aggregated.csv (325 rows)
+2025-11-14 00:27:12,523 [INFO] Transformation completed in 0.11s
+2025-11-14 00:27:12,523 [INFO] ==== Transformation Run Completed ====
+2025-11-14 13:12:41,925 [INFO] ==== Transformation Run Started ====
+2025-11-14 13:12:41,927 [INFO] Loaded latest ingested file: sales_20251114_131239.csv
+2025-11-14 13:12:42,032 [INFO] Transactional dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_transactional.csv (500 rows)
+2025-11-14 13:12:42,059 [INFO] Aggregated dataset saved: C:\Users\DELL\Data Science\Data Engineering\Projects\retail_sales_pipeline\data\processed\sales_aggregated.csv (323 rows)
+2025-11-14 13:12:42,059 [INFO] Transformation completed in 0.13s
+2025-11-14 13:12:42,060 [INFO] ==== Transformation Run Completed ====

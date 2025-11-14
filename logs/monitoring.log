@@ -1,0 +1,28 @@
+2025-11-14 00:27:08,699 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-14 00:27:08,701 [INFO] Scheduler started at 2025-11-14 00:27:08.700924
+2025-11-14 00:27:08,701 [INFO] ==== Automated ETL Run Started ====
+2025-11-14 00:27:08,702 [INFO] Running: scripts/generate_fake_sales.py
+2025-11-14 00:27:10,342 [INFO] Running: scripts/extract_sales.py
+2025-11-14 00:27:11,505 [INFO] Running: scripts/transform_sales.py
+2025-11-14 00:27:12,649 [INFO] Running: scripts/load_to_db.py
+2025-11-14 00:27:13,993 [INFO] Starting monitoring checks (duration: 5.29s)
+2025-11-14 00:27:14,014 [INFO] Extra columns in sales_transactional: ['brand', 'category', 'cost_price', 'margin_percent', 'product_name', 'profit', 'total_cost']
+2025-11-14 00:27:14,028 [INFO] Monitoring recorded: trans=500 agg=325 revenue=438738.99 notes=Extra columns in sales_transactional: ['brand', 'category', 'cost_price', 'margin_percent', 'product_name', 'profit', 'total_cost']
+2025-11-14 00:27:14,030 [INFO] Health updated: {'timestamp': '2025-11-14 00:27:14', 'status': 'OK', 'message': 'Pipeline completed successfully.'}
+2025-11-14 00:27:14,031 [INFO] ==== Automated ETL Run Completed ====
+2025-11-14 00:27:14,034 [INFO] Added job "run_pipeline" to job store "default"
+2025-11-14 00:27:14,036 [INFO] Scheduler started
+2025-11-14 13:12:37,570 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-14 13:12:37,573 [INFO] Scheduler started at 2025-11-14 13:12:37.572662
+2025-11-14 13:12:37,574 [INFO] ==== Automated ETL Run Started ====
+2025-11-14 13:12:37,574 [INFO] Running: scripts/generate_fake_sales.py
+2025-11-14 13:12:39,562 [INFO] Running: scripts/extract_sales.py
+2025-11-14 13:12:40,799 [INFO] Running: scripts/transform_sales.py
+2025-11-14 13:12:42,175 [INFO] Running: scripts/load_to_db.py
+2025-11-14 13:12:43,456 [INFO] Starting monitoring checks (duration: 5.88s)
+2025-11-14 13:12:43,466 [INFO] Extra columns in sales_transactional: ['brand', 'category', 'cost_price', 'margin_percent', 'product_name', 'profit', 'total_cost']
+2025-11-14 13:12:43,478 [INFO] Monitoring recorded: trans=500 agg=323 revenue=444869.99 notes=Extra columns in sales_transactional: ['brand', 'category', 'cost_price', 'margin_percent', 'product_name', 'profit', 'total_cost']
+2025-11-14 13:12:43,480 [INFO] Health updated: {'timestamp': '2025-11-14 13:12:43', 'status': 'OK', 'message': 'Pipeline completed successfully.'}
+2025-11-14 13:12:43,481 [INFO] ==== Automated ETL Run Completed ====
+2025-11-14 13:12:43,483 [INFO] Added job "run_pipeline" to job store "default"
+2025-11-14 13:12:43,483 [INFO] Scheduler started

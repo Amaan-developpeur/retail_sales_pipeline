@@ -1,0 +1,69 @@
+2025-11-13 13:07:55,708 [INFO] ==== Ingestion Run Started ====
+2025-11-13 13:09:26,542 [INFO] ==== Ingestion Run Started ====
+2025-11-13 13:09:26,544 [INFO] ==== Ingestion Run Completed ====
+2025-11-13 13:13:42,417 [INFO] ==== Ingestion Run Started ====
+2025-11-13 13:13:42,462 [INFO] Ingested: sales_2024_01.csv (6 rows)
+2025-11-13 13:13:42,463 [INFO] ==== Ingestion Run Completed ====
+2025-11-13 13:24:06,967 [INFO] ==== Ingestion Run Started ====
+2025-11-13 13:24:06,976 [INFO] Skipped already ingested file: sales_2024_01.csv
+2025-11-13 13:24:06,976 [INFO] ==== Ingestion Run Completed ====
+2025-11-13 13:46:39,155 [INFO] ==== Ingestion Run Started ====
+2025-11-13 13:46:39,155 [INFO] Skipped already ingested file: sales_2024_01.csv
+2025-11-13 13:46:39,211 [INFO] Ingested: sales_20251113_134442.csv (500 rows)
+2025-11-13 13:46:39,211 [INFO] ==== Ingestion Run Completed ====
+2025-11-13 16:25:38,193 [INFO] ==== Ingestion Run Started ====
+2025-11-13 16:25:38,213 [INFO] Skipped already ingested file: sales_2024_01.csv
+2025-11-13 16:25:38,213 [INFO] Skipped already ingested file: sales_20251113_134442.csv
+2025-11-13 16:25:38,271 [INFO] Ingested: sales_20251113_162537.csv (500 rows)
+2025-11-13 16:25:38,272 [INFO] ==== Ingestion Run Completed ====
+2025-11-13 16:40:42,412 [INFO] ==== Ingestion Run Started ====
+2025-11-13 16:40:42,412 [INFO] Skipped already ingested file: sales_2024_01.csv
+2025-11-13 16:40:42,412 [INFO] Skipped already ingested file: sales_20251113_134442.csv
+2025-11-13 16:40:42,412 [INFO] Skipped already ingested file: sales_20251113_162537.csv
+2025-11-13 16:40:42,462 [INFO] Ingested: sales_20251113_164041.csv (500 rows)
+2025-11-13 16:40:42,463 [INFO] ==== Ingestion Run Completed ====
+2025-11-13 19:29:08,518 [INFO] ==== Ingestion Run Started ====
+2025-11-13 19:29:08,519 [INFO] Skipped already ingested file: sales_2024_01.csv
+2025-11-13 19:29:08,519 [INFO] Skipped already ingested file: sales_20251113_134442.csv
+2025-11-13 19:29:08,519 [INFO] Skipped already ingested file: sales_20251113_162537.csv
+2025-11-13 19:29:08,519 [INFO] Skipped already ingested file: sales_20251113_164041.csv
+2025-11-13 19:29:08,574 [INFO] Ingested: sales_20251113_192907.csv (500 rows)
+2025-11-13 19:29:08,574 [INFO] ==== Ingestion Run Completed ====
+2025-11-13 19:59:52,743 [INFO] ==== Ingestion Run Started ====
+2025-11-13 19:59:52,744 [INFO] Skipped already ingested file: sales_2024_01.csv
+2025-11-13 19:59:52,745 [INFO] Skipped already ingested file: sales_20251113_134442.csv
+2025-11-13 19:59:52,745 [INFO] Skipped already ingested file: sales_20251113_162537.csv
+2025-11-13 19:59:52,745 [INFO] Skipped already ingested file: sales_20251113_164041.csv
+2025-11-13 19:59:52,745 [INFO] Skipped already ingested file: sales_20251113_192907.csv
+2025-11-13 19:59:52,841 [INFO] Ingested: sales_20251113_195951.csv (500 rows)
+2025-11-13 19:59:52,841 [INFO] ==== Ingestion Run Completed ====
+2025-11-13 20:03:24,305 [INFO] ==== Ingestion Run Started ====
+2025-11-13 20:03:24,306 [INFO] Skipped already ingested file: sales_2024_01.csv
+2025-11-13 20:03:24,306 [INFO] Skipped already ingested file: sales_20251113_134442.csv
+2025-11-13 20:03:24,306 [INFO] Skipped already ingested file: sales_20251113_162537.csv
+2025-11-13 20:03:24,306 [INFO] Skipped already ingested file: sales_20251113_164041.csv
+2025-11-13 20:03:24,306 [INFO] Skipped already ingested file: sales_20251113_192907.csv
+2025-11-13 20:03:24,306 [INFO] Skipped already ingested file: sales_20251113_195951.csv
+2025-11-13 20:03:24,360 [INFO] Ingested: sales_20251113_200323.csv (500 rows)
+2025-11-13 20:03:24,361 [INFO] ==== Ingestion Run Completed ====
+2025-11-14 00:27:11,309 [INFO] ==== Ingestion Run Started ====
+2025-11-14 00:27:11,310 [INFO] Skipped already ingested file: sales_2024_01.csv
+2025-11-14 00:27:11,311 [INFO] Skipped already ingested file: sales_20251113_134442.csv
+2025-11-14 00:27:11,311 [INFO] Skipped already ingested file: sales_20251113_162537.csv
+2025-11-14 00:27:11,311 [INFO] Skipped already ingested file: sales_20251113_164041.csv
+2025-11-14 00:27:11,311 [INFO] Skipped already ingested file: sales_20251113_192907.csv
+2025-11-14 00:27:11,311 [INFO] Skipped already ingested file: sales_20251113_195951.csv
+2025-11-14 00:27:11,311 [INFO] Skipped already ingested file: sales_20251113_200323.csv
+2025-11-14 00:27:11,401 [INFO] Ingested: sales_20251114_002710.csv (500 rows)
+2025-11-14 00:27:11,402 [INFO] ==== Ingestion Run Completed ====
+2025-11-14 13:12:40,590 [INFO] ==== Ingestion Run Started ====
+2025-11-14 13:12:40,612 [INFO] Skipped already ingested file: sales_2024_01.csv
+2025-11-14 13:12:40,612 [INFO] Skipped already ingested file: sales_20251113_134442.csv
+2025-11-14 13:12:40,613 [INFO] Skipped already ingested file: sales_20251113_162537.csv
+2025-11-14 13:12:40,613 [INFO] Skipped already ingested file: sales_20251113_164041.csv
+2025-11-14 13:12:40,613 [INFO] Skipped already ingested file: sales_20251113_192907.csv
+2025-11-14 13:12:40,613 [INFO] Skipped already ingested file: sales_20251113_195951.csv
+2025-11-14 13:12:40,614 [INFO] Skipped already ingested file: sales_20251113_200323.csv
+2025-11-14 13:12:40,616 [INFO] Skipped already ingested file: sales_20251114_002710.csv
+2025-11-14 13:12:40,691 [INFO] Ingested: sales_20251114_131239.csv (500 rows)
+2025-11-14 13:12:40,692 [INFO] ==== Ingestion Run Completed ====

@@ -1,0 +1,18 @@
+# OS / IDE
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+.env/
+.conda/
+
+
+
+
+
+
+

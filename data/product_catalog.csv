@@ -1,0 +1,11 @@
+product_id,product_name,category,brand,cost_price
+P001,Smartphone A,Electronics,TechNova,200
+P002,Laptop X,Electronics,ComputeCore,750
+P003,Headphones Z,Accessories,SoundMax,80
+P004,Desk Chair,Home,ErgoFit,120
+P005,LED Monitor,Electronics,ViewPoint,250
+P006,Coffee Maker,Home,KitchenPro,90
+P007,Sneakers Air,Sports,RunEase,110
+P008,Backpack Travel,Accessories,UrbanTrail,65
+P009,Wireless Mouse,Accessories,ClickIt,40
+P010,Office Desk,Home,ErgoFit,300

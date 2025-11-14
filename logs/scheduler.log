@@ -1,0 +1,52 @@
+2025-11-13 16:25:35,525 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-13 16:25:35,527 [INFO] Scheduler started at 2025-11-13 16:25:35.526226
+2025-11-13 16:25:35,527 [INFO] ==== Automated ETL Run Started ====
+2025-11-13 16:25:35,527 [INFO] Running: scripts/generate_fake_sales.py
+2025-11-13 16:25:37,165 [INFO] Running: scripts/extract_sales.py
+2025-11-13 16:25:38,385 [INFO] Running: scripts/transform_sales.py
+2025-11-13 16:25:39,509 [INFO] Running: scripts/load_to_db.py
+2025-11-13 16:25:40,644 [INFO] ==== Automated ETL Run Completed ====
+2025-11-13 16:25:40,647 [INFO] Added job "run_pipeline" to job store "default"
+2025-11-13 16:25:40,648 [INFO] Scheduler started
+2025-11-13 16:40:40,061 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-13 16:40:40,071 [INFO] Scheduler started at 2025-11-13 16:40:40.071296
+2025-11-13 16:40:40,072 [INFO] ==== Automated ETL Run Started ====
+2025-11-13 16:40:40,072 [INFO] Running: scripts/generate_fake_sales.py
+2025-11-13 16:40:41,464 [INFO] Running: scripts/extract_sales.py
+2025-11-13 16:40:42,571 [INFO] Running: scripts/transform_sales.py
+2025-11-13 16:40:43,717 [INFO] Running: scripts/load_to_db.py
+2025-11-13 16:40:44,910 [INFO] Health updated: {'timestamp': '2025-11-13 16:40:44', 'status': 'OK', 'message': 'Pipeline completed successfully.'}
+2025-11-13 16:40:44,910 [INFO] ==== Automated ETL Run Completed ====
+2025-11-13 16:40:44,912 [INFO] Added job "run_pipeline" to job store "default"
+2025-11-13 16:40:44,913 [INFO] Scheduler started
+2025-11-13 19:29:06,192 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-13 19:29:06,193 [INFO] Scheduler started at 2025-11-13 19:29:06.193386
+2025-11-13 19:29:06,193 [INFO] ==== Automated ETL Run Started ====
+2025-11-13 19:29:06,194 [INFO] Running: scripts/generate_fake_sales.py
+2025-11-13 19:29:07,557 [INFO] Running: scripts/extract_sales.py
+2025-11-13 19:29:08,682 [INFO] Running: scripts/transform_sales.py
+2025-11-13 19:29:09,740 [INFO] Running: scripts/load_to_db.py
+2025-11-13 19:29:10,904 [INFO] Health updated: {'timestamp': '2025-11-13 19:29:10', 'status': 'OK', 'message': 'Pipeline completed successfully.'}
+2025-11-13 19:29:10,905 [INFO] ==== Automated ETL Run Completed ====
+2025-11-13 19:29:10,910 [INFO] Added job "run_pipeline" to job store "default"
+2025-11-13 19:29:10,910 [INFO] Scheduler started
+2025-11-13 19:59:50,223 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-13 19:59:50,223 [INFO] Scheduler started at 2025-11-13 19:59:50.223759
+2025-11-13 19:59:50,224 [INFO] ==== Automated ETL Run Started ====
+2025-11-13 19:59:50,224 [INFO] Running: scripts/generate_fake_sales.py
+2025-11-13 19:59:51,770 [INFO] Running: scripts/extract_sales.py
+2025-11-13 19:59:52,943 [INFO] Running: scripts/transform_sales.py
+2025-11-13 19:59:53,027 [ERROR] Pipeline step failed: Command '['python', 'scripts/transform_sales.py']' returned non-zero exit status 2.
+2025-11-13 19:59:53,029 [INFO] Health updated: {'timestamp': '2025-11-13 19:59:53', 'status': 'FAIL', 'message': 'Pipeline failed at scripts/transform_sales.py'}
+2025-11-13 19:59:53,423 [INFO] Slack alert sent successfully.
+2025-11-13 20:03:21,827 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-13 20:03:21,827 [INFO] Scheduler started at 2025-11-13 20:03:21.827935
+2025-11-13 20:03:21,828 [INFO] ==== Automated ETL Run Started ====
+2025-11-13 20:03:21,828 [INFO] Running: scripts/generate_fake_sales.py
+2025-11-13 20:03:23,324 [INFO] Running: scripts/extract_sales.py
+2025-11-13 20:03:24,467 [INFO] Running: scripts/transform_sales.py
+2025-11-13 20:03:25,706 [INFO] Running: scripts/load_to_db.py
+2025-11-13 20:03:26,978 [INFO] Health updated: {'timestamp': '2025-11-13 20:03:26', 'status': 'OK', 'message': 'Pipeline completed successfully.'}
+2025-11-13 20:03:26,979 [INFO] ==== Automated ETL Run Completed ====
+2025-11-13 20:03:26,981 [INFO] Added job "run_pipeline" to job store "default"
+2025-11-13 20:03:26,982 [INFO] Scheduler started
